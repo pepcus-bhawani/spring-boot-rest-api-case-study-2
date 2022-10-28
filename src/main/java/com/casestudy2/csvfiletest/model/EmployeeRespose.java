@@ -1,5 +1,4 @@
 package com.casestudy2.csvfiletest.model;
-
 import java.time.LocalDateTime;
 import java.util.List;
 
