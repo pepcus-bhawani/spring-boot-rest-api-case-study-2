@@ -1,5 +1,4 @@
 package com.casestudy2.csvfiletest.entity;
-
 public enum Department {
 	
 
