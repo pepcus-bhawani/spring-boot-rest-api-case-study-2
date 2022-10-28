@@ -7,7 +7,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.casestudy2.csvfiletest.entity.Employee;
 import com.casestudy2.csvfiletest.model.EmployeeRespose;
-
 public interface IEmployeeService {
 	
 	public ResponseEntity<EmployeeRespose> addEmployeeService(MultipartFile file);
