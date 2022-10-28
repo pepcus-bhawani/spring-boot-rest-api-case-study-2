@@ -14,7 +14,6 @@ import javax.validation.constraints.NotNull;
 
 import org.hibernate.annotations.GenericGenerator;
 import org.springframework.stereotype.Component;
-
 import lombok.Data;
 
 @Entity
